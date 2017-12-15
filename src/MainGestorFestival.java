@@ -54,6 +54,11 @@ public class MainGestorFestival {
 		
 		festival1.mostrarInfo();
 		
+		festival1.getActuaciones();
+		
+		festival1.setActuaciones(null);
+		
+		festival1.mostrarInfo();
 		
 	}
 
