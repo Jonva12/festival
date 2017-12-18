@@ -60,6 +60,8 @@ public class MainGestorFestival {
 		
 		festival1.mostrarInfo();
 		
+		festival1.addActuacion("El reno renardo", 100);
+		
 	}
 
 	
